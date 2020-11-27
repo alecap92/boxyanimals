@@ -116,7 +116,7 @@
                 </a>
             </div>
             <div class="col-md-6 text-center">
-                <h3>Boxy Grande 100cmx50cm</h3>
+                <h3>Boxy Grande 120cmx50cm</h3>
                 <img
                     class="img-fluid"
                     src="{{ asset('img/boxy-grande.png') }}"
