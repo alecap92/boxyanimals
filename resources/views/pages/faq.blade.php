@@ -306,6 +306,141 @@
         </div>
       </div>
     </div>
+    <div class="card">
+      <div class="card-header" id="headingTen">
+        <h2 class="mb-0">
+          <button
+            class="btn btn-link btn-block text-left collapsed text-success"
+            type="button"
+            data-toggle="collapse"
+            data-target="#collapseTen"
+            aria-expanded="false"
+            aria-controls="collapseTen"
+          >
+        
+¿Cómo pedir una bandeja?
+          </button>
+        </h2>
+      </div>
+      <div
+        id="collapseTen"
+        class="collapse"
+        aria-labelledby="headingTen"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          Realice un pedido en el sitio web, en  Instagram o llame al  3115541537 
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingEleven ">
+        <h2 class="mb-0">
+          <button
+            class="btn btn-link btn-block text-left collapsed text-success"
+            type="button"
+            data-toggle="collapse"
+            data-target="#collapseEleven "
+            aria-expanded="false"
+            aria-controls="collapseEleven"
+          >
+        
+            ¿Dónde tienen habilitadas las entregas sin costo?
+          </button>
+        </h2>
+      </div>
+      <div
+        id="collapseEleven"
+        class="collapse"
+        aria-labelledby="headingEleven"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          Tenemos servicio de entregas en Bogota y Sabana Norte sin costo. Si requieres entregas en otra ciudad comunícate con nosotros para ayudarte. 
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingFourteen ">
+        <h2 class="mb-0">
+          <button
+            class="btn btn-link btn-block text-left collapsed text-success"
+            type="button"
+            data-toggle="collapse"
+            data-target="#collapseFourteen "
+            aria-expanded="false"
+            aria-controls="collapseFourteen"
+          >
+        
+          ¿Hay franjas horarias? No quiero esperar todo el día por un mensajero
+          </button>
+        </h2>
+      </div>
+      <div
+        id="collapseFourteen"
+        class="collapse"
+        aria-labelledby="headingFourteen"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          Sí, tras la confirmación del pedido, podrá seleccionar un intervalo de 3 horas el día de la entrega. El mensajero se comunicará con usted con una antelación de 30 a 60 minutos antes de la llegada. Si no se encuentra en casa, el servicio de mensajería puede dejar el pedido en la recepción de su conjunto residencial, si así lo desea. 
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingTwelve ">
+        <h2 class="mb-0">
+          <button
+            class="btn btn-link btn-block text-left collapsed text-success"
+            type="button"
+            data-toggle="collapse"
+            data-target="#collapseTwelve "
+            aria-expanded="false"
+            aria-controls="collapseTwelve"
+          >
+        
+          ¿Quiero un descuento. ¿Cómo puedes obtenerlo?
+          </button>
+        </h2>
+      </div>
+      <div
+        id="collapseTwelve"
+        class="collapse"
+        aria-labelledby="headingTwelve"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          Hazle una foto a tu mascota y la bandeja de césped, escribe una pequeña reseña y postéanos en Instagram o Facebook.  Obtendrás el descuento que tengamos vigente en ese mes. 
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header" id="headingThirteen ">
+        <h2 class="mb-0">
+          <button
+            class="btn btn-link btn-block text-left collapsed text-success"
+            type="button"
+            data-toggle="collapse"
+            data-target="#collapseThirteen "
+            aria-expanded="false"
+            aria-controls="collapseThirteen"
+          >
+        
+          ¿ Soy propietario de una tienda de mascotas / peluquería canina/ agropecuaria  y me gustaría vender sus bandejas de pasto en mi tienda ¿Tiene una lista de precios al por mayor?
+          </button>
+        </h2>
+      </div>
+      <div
+        id="collapseThirteen"
+        class="collapse"
+        aria-labelledby="headingThirteen"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          Sí, ofrecemos bandejas de pasto para tiendas de mascotas minoristas. Escríbanos por whatsapp o al correo electrónico   (por verificar el correo) , en respuesta le enviaremos una lista de precios al por mayor. 
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 @endsection
