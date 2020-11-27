@@ -2,61 +2,10 @@
 
 @section('content')
 <div class="container p-5">
-    <h1> Boxy responde tus preguntas!!</h1>
-    <br>
+    <h1 style="background:#25d366; color:white; padding:10px;text-align:center; margin-bottom:50px;"> Boxy responde tus preguntas!!</h1>
+    
   <div class="accordion" id="accordionExample">
-    <div class="card">
-      <div class="card-header" id="headingOne">
-        <h2 class="mb-0">
-          <button
-            class="btn btn-link btn-block text-left text-success"
-            type="button"
-            data-toggle="collapse"
-            data-target="#collapseOne"
-            aria-expanded="true"
-            aria-controls="collapseOne"
-          >
-            ¿Qué es Boxy Animals y para qué sirve?
-          </button>
-        </h2>
-      </div>
-
-      <div
-        id="collapseOne"
-        class="collapse "
-        aria-labelledby="headingOne"
-        data-parent="#accordionExample"
-      >
-        <div class="card-body">
-          Boxy Animals es un sanitario para perros o un césped natural para
-          otras especies como Gatos, Hámsteres, Conejos, entre otros.
-          Nuestras Unidades constan de una almohadilla de pasto natural
-          dentro de una caja de cartón resistente y si el cliente lo
-          requiere adicional con una bandeja en madera inmunizada que se ve
-          bien dentro del interior y que facilita el uso de dicha unidad.
-          Son una excelente alternativa a los periódicos, pañales y bandejas
-          de césped artificial. Recomendamos nuestras bandejas a todos los
-          animales que viven en la ciudad. Nuestras bandejas de césped real
-          serán útiles para:
-          <ul>
-            <li>
-              Perros que se ven obligados a quedarse en casa más de 10
-              horas.
-            </li>
-            <li>
-              Para razas de perros que tienen dificultades para aguantar
-              durante mucho tiempo
-            </li>
-            <li>Para entrenar cachorros a hacer en el pasto.</li>
-            <li>
-              Durante períodos de enfermedad o cuarentena después de la
-              vacunación.
-            </li>
-            <li>Perros mayores que ya tienen dificultades para caminar.</li>
-          </ul>
-        </div>
-      </div>
-    </div>
+    
     <div class="card">
       <div class="card-header" id="headingTwo">
         <h2 class="mb-0">
@@ -442,5 +391,10 @@
       </div>
     </div>
   </div>
+  <div>
+  </div>
+</div>
+<div class="text-center">
+  <img class="img-fluid pt-5" src="{{ asset('img/home/pasto.png') }}" alt="">
 </div>
 @endsection

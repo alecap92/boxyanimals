@@ -30,6 +30,10 @@ Route::get('/faq', function () {
     return view('pages.faq');
 })->name('faq');
 
+Route::get('/boxy', function () {
+    return view('pages.boxy');
+})->name('boxy');
+
 
 Route::post('addCart', [CartController::class, 'store'])->name('addCart');
 Route::get('deleteCart/{id}', [CartController::class, 'destroy'])->name('deleteCart');

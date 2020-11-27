@@ -10,7 +10,7 @@
 
         <ul class="nav navbar-nav flex-fill justify-content-center ">
             <li class="nav-item"><a class="mr-4 menu-texto" href="{{url('/')}}">Inicio</a></li>
-            <li class="nav-item"><a class="mr-4 menu-texto" href="#">¿Qué es Boxy Animals?</a></li>
+            <li class="nav-item"><a class="mr-4 menu-texto" href="/boxy">¿Qué es Boxy Animals?</a></li>
             <li class="nav-item"><a class="mr-4 menu-texto" href="{{url('faq')}}">Preguntas Frecuentes</a></li>
             <li class="nav-item"><a class="mr-4 menu-texto" href="{{url('contacto')}}">Contacto</a></li>
         </ul>
