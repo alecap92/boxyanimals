@@ -4,9 +4,13 @@
 
 <section>
     <div class="container py-5">
+        <div class="col-md-6">
+            
+        </div>
         <div class="row">
             <div class="col-md-6">
                 <h1 style="background:#25d366; color:white; padding:10px;text-align:center; margin-bottom:50px;">¿Qué es Boxy Animals y para qué sirve?</h1>
+                
                 <p>
                     Boxy Animals es un sanitario para perros o un césped natural para
           otras especies como Gatos, Hámsteres, Conejos, entre otros.
@@ -37,7 +41,8 @@
                   </ul>
             </div>
             <div class="col-md-6">
-                <img class="img-fluid" src="{{ asset('img/boxy/labrador.png') }}" width="80%" alt="">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/-3nsqEGZQng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <img class="img-fluid" src="{{ asset('img/boxy/labrador.png') }}" width="50%" alt="">
             </div>
         </div>    
 
@@ -58,7 +63,7 @@
                     </a>
                 </div>
                 <div class="col-md-6 text-center">
-                    <h3>Boxy Grande 100cmx50cm</h3>
+                    <h3>Boxy Grande 120cmx50cm</h3>
                     <img
                         class="img-fluid"
                         src="{{ asset('img/boxy-grande.png') }}"
