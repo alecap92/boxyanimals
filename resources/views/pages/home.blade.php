@@ -39,12 +39,12 @@
         <div class="col-md-6">
             <img
                 class="img-fluid p-3"
-                src="{{ asset('img/home/boxy-perro.png') }}"
+                src="{{ asset('img/home/golden.png') }}"
                 alt=""
             />
         </div>
         <div class="col-md-6">
-            <h2>¿Sirve para mi mascota?</h2>
+            <h2 style="border-radius:50px;">¿Sirve para mi mascota?</h2>
             <p>
                 Las bandejas están fabricadas con materiales 100% naturales
                 Además las almohadilla de pasto son biodegradables. Se ve bien en el
