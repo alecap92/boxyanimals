@@ -9,7 +9,7 @@
         <img class="img-fluid w-100" src="{{ asset('img/home/pasto.png') }}" alt="" />
     </section>
 
-    <div class="row my-5 seccion1 pt-5">
+    <div class="row seccion1 pt-5">
         <div class="col-md-6">
             <h2>¿Cómo Funciona?</h2>
             <p>
@@ -23,7 +23,7 @@
                 planeta. Ademas, Las bandejas Boxy Animals tienen una apariencia
                 agradable, y acompaña muy bien tus muebles en el hogar.
             </p>
-            <button class="btn CTA-seccion1">¿Qué es Boxy?</button>
+            
         </div>
         <div class="col-md-6">
             <img

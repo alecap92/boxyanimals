@@ -2,7 +2,11 @@
 
 @section('content')
 <div class="container p-5">
-    <h1 style="background:#25d366; color:white; padding:10px;text-align:center; margin-bottom:50px;"> Boxy responde tus preguntas!!</h1>
+  
+     
+  
+  
+  <h1 style="background:#25d366; color:white; padding:10px;text-align:center; margin-bottom:50px;"> Boxy responde tus preguntas!!</h1>
     
   <div class="accordion" id="accordionExample">
     
@@ -392,6 +396,9 @@
     </div>
   </div>
   <div>
+  </div>
+  <div class="text-right">
+    <img class="img-fluid" src="{{ asset('img/boxy/labrador.png') }}" width="50%" alt="">
   </div>
 </div>
 <div class="text-center">
