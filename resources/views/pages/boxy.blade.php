@@ -9,9 +9,9 @@
         </div>
         <div class="row">
             <div class="col-md-6">
-                <h1 style="background:#25d366; color:white; padding:10px;text-align:center; margin-bottom:50px;">¿Qué es Boxy Animals y para qué sirve?</h1>
+                <h1 style="background:#25d366; color:white; padding:10px;text-align:center; margin-bottom:50px;border-radius:20px">¿Qué es Boxy Animals y para qué sirve?</h1>
                 
-                <p>
+                <p style="text-align:justify">
                     Boxy Animals es un sanitario para perros o un césped natural para
           otras especies como Gatos, Hámsteres, Conejos, entre otros.
           Nuestras Unidades constan de una almohadilla de pasto natural
@@ -40,8 +40,8 @@
                     <li>Perros mayores que ya tienen dificultades para caminar.</li>
                   </ul>
             </div>
-            <div class="col-md-6">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/-3nsqEGZQng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="col-md-6 text-center">
+                <iframe  height="215" src="https://www.youtube.com/embed/-3nsqEGZQng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <img class="img-fluid" src="{{asset("img/boxy/a.png")}}" width="50%" alt="">
             </div>
         </div>    

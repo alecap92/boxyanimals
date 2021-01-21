@@ -3,14 +3,14 @@
 <img class="img-fluid w-100" src="{{ asset('img/home/home.png') }}" alt="" />
 
 <div class="container">
-    <section class="textos text-center py-5">
+    <section class="textos text-center pt-5">
         <h1>Bandeja De Cesped Natural Para Mascotas</h1>
         <h2 class="subtitulo-texto">Solución Innovadora <img class="icono" src="{{ asset('img/home/iconos/logo.svg') }}" /></h2>
         <img class="img-fluid w-100" src="{{ asset('img/home/pasto.png') }}" alt="" />
     </section>
 
-    <div class="row seccion1 pt-5">
-        <div class="col-md-6">
+    <div class="row seccion1 p-0 m-0">
+        <div class="col-md-6 col-sm-4">
             <h2>¿Cómo Funciona?</h2>
             <p>
                 Si tu mascota está en casa y necesita hacer sus necesidades,
@@ -25,9 +25,9 @@
             </p>
             
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 col-sm-8 p-0 m-0">
             <img
-                class="img-fluid p-3"
+                class="img-fluid p-0"
                 src="{{ asset('img/home/gato.png') }}"
                 alt=""
             />
@@ -35,15 +35,15 @@
     </div>
 </div>
 <div class="container-fluid seccion2">
-    <div class="row my-5 container mr-auto ml-auto p-5">
-        <div class="col-md-6">
+    <div class="row my-5 container mr-auto ml-auto p-3">
+        <div class="col-md-6 col-sm-12 p-0 m-0">
             <img
-                class="img-fluid p-3"
+                class="img-fluid"
                 src="{{ asset('img/home/golden.png') }}"
                 alt=""
             />
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 col-sm-12">
             <h2 style="border-radius:50px;">¿Sirve para mi mascota?</h2>
             <p>
                 Las bandejas están fabricadas con materiales 100% naturales
@@ -100,7 +100,7 @@
         </div>
     </div>
 
-    <section class="p-5">
+    <section class="p-3">
         <div class="row">
             <div class="col-md-6 text-center">
                 <h3>Boxy Mediano 80cmx50cm</h3>
@@ -110,13 +110,14 @@
                     alt=""
                 />
                 <a href="{{ route('carrito') }}" style="color: white"
-                    ><button type="submit" class="btn btn-success">
+                    ><button type="submit" class="btn btn-success mb-5">
                         Comprar
                     </button>
                 </a>
             </div>
-            <div class="col-md-6 text-center">
-                <h3>Boxy Grande 120cmx50cm</h3>
+            
+            <div class="col-md-6 text-center p-0 m-0">
+                <h3>Boxy Grande <br> 1.2mx50cm</h3>
                 <img
                     class="img-fluid"
                     src="{{ asset('img/boxy-grande.png') }}"

@@ -54,6 +54,9 @@ $productos= \Cart::session('cart')->getContent();
                                   <option hidden value=""></option>
                                   <option value="1">1</option>
                                   <option value="2">2</option>
+                                  <option value="3">3</option>
+                                  <option value="4">4</option>
+                                  <option value="5">5</option>
                                 </select>
 
                             </div>
@@ -137,17 +140,11 @@ $productos= \Cart::session('cart')->getContent();
             }
 
 
-            if(prod === "Boxy Grande" && cantidad == 1){
-                $('.precio').val("60000");
+            if(prod === "Boxy Grande"){
+                $('.precio').val("100000");
                 $('.id').val("1");
-            }if(prod === "Boxy Grande" && cantidad == 2){
-                $('.precio').val("95000");
-                $('.id').val("1");
-            }if(prod === "Boxy Mediano" && cantidad == 1){
-                $('.precio').val("45000");
-                $('.id').val("2");
-            }if(prod === "Boxy Mediano" && cantidad == 2){
-                $('.precio').val("79000");
+            }if(prod === "Boxy Mediano"){
+                $('.precio').val("70000");
                 $('.id').val("2");
             }
             $('#sendform').submit();

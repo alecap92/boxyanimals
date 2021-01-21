@@ -6,8 +6,10 @@
      
   
   
-  <h1 style="background:#25d366; color:white; padding:10px;text-align:center; margin-bottom:50px;"> Boxy responde tus preguntas!!</h1>
-    
+  <h1 style="background:#25d366; color:white; padding:10px;text-align:center; margin-bottom:50px;border-radius:20px;"> Boxy responde tus preguntas!!</h1>
+  <div class="text-center">
+    <img src="{{asset('img/1.png')}}" class="img-fluid" alt="">
+    </div>  
   <div class="accordion" id="accordionExample">
     
     <div class="card">
