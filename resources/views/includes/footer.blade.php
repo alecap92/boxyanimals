@@ -20,12 +20,12 @@
   
     </div>
     <!-- Footer Text -->
-  	<a href="https://api.whatsapp.com/send?phone=573115541537&text=Hola!%20Gracias%20por%20comunicarte%20con%20🍀%20Boxy%20Animals%20¿Cómo%20podemos%20ayudarte%3F" class="whatsapp" target="_blank"> <i class="fab fa-whatsapp whatsapp-icon"></i></a>
+  	<a href="https://api.whatsapp.com/send?phone=573115541537&text=Hola!%20Estoy%20interesado(a)%20%20en%20el%20Sanitario%20para%20Mascotas%2C%20podrias%20ampliarme%20la%20informaci%C3%B3n." class="whatsapp" target="_blank"> <i class="fab fa-whatsapp whatsapp-icon"></i></a>
 
 
     <!-- Copyright -->
-    <div class="footer-copyright text-center py-3 " >© 2020 Copyright:
-      <a href="https://bongodigital.co/"> bongodigital.co</a>
+    <div class="footer-copyright text-center py-3 text-white" >© 2020 Copyright:
+      <a href="https://bongodigital.co/" style="color:white;"> www.bongodigital.co</a>
     </div>
     <!-- Copyright -->
   

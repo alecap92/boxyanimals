@@ -400,7 +400,7 @@
   <div>
   </div>
   <div class="text-right">
-    <img class="img-fluid" src="{{ asset('img/boxy/labrador.png') }}" width="50%" alt="">
+    {{--  <img class="img-fluid" src="{{ asset('img/boxy/labrador.png') }}" width="50%" alt="">  --}}
   </div>
 </div>
 <div class="text-center">

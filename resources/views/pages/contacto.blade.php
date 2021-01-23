@@ -7,7 +7,7 @@
             <div class="col-md-6">
                 <h3>¡Comunícate con nosotros!</h3>
                 <p>Para realizar un pedido o recibir asesoria...</p>
-                <p> <i class="fa fa-phone"></i> Teléfono: 301 582 0990</p>
+                <p> <i class="fa fa-phone"></i> Teléfono: (311) 554 1537</p>
                 <p><i class="fa fa-envelope"></i> Correo: ventas@boxyanimals.com.co </p>
                 <p>Bogotá, Colombia</p>
             </div>
